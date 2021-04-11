@@ -1,3 +1,3 @@
 # Stark
 
-BCA 6th Semester
+BCA 6th Semester Notes..
